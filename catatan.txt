@@ -1,0 +1,17 @@
+1. urut pendaftar sesuai wakut pendaftaran => untuk setiap hari => 
+    jika sudah diurutkan pada hari sebelumnya tidak perlu diurutkan lagi dihari berikutnya
+    
+2. kemudian pada hari pertama => ambil delapan jam pertama untuk menentukan jadwal
+
+3. jika dia tidak termasuk dalam jadwal => masukkan di jadwal lain yang tersedia
+
+4. jika tidak memiliki wakut lain dan dan jadwal sebelumnya belum penuh total 
+    => maka bandingkan dengan list sebelum nya dan tukar dengan peserta yang masih memiliki
+    waktu lain 
+    =>dengan membandingkan waktu dan mengecek pendaftar yng akan ditukarkan apakah memiliki jadwal lain
+    
+
+4. kemudian urutkan lagi sesuai waktu pendaftaran yang dapat diketahui berdasarkan id
+    
+
+
